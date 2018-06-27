@@ -1,61 +1,61 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/jd2L9vjdY0tmXVei2hSg_rec_small.png",RCTI
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/jd2L9vjdY0tmXVei2hSg.png",RCTI
 https://cdn-livetv2.metube.id/hls/rcti.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/T2lDfPZnM3aMkAnfX5mH_rec_small.png",GTV
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/T2lDfPZnM3aMkAnfX5mH.png",GTV
 https://cdn-livetv2.metube.id/hls/globaltv.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/oGyMRADwU2cd4uvpcC9q_rec_small.png",MNCTV
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/oGyMRADwU2cd4uvpcC9q.png",MNCTV
 https://cdn-livetv1.metube.id/hls/mnctv.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/MHZ3z1VLDVhkdh6AwuxE_rec_small.png",iNews
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/MHZ3z1VLDVhkdh6AwuxE.png",iNews
 https://cdn-livetv2.metube.id/hls/inewstv.m3u8
 
-#EXTINF:-1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",TVRI
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/SJAQak0TFH3ZYQl9mTKh.png",TVRI
 https://cdn-livetv2.metube.id/hls/tvri.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/737QuqQzk3GABfx77mOG_rec_small.png",IDX Channel
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/737QuqQzk3GABfx77mOG.png",IDX Channel
 https://cdn-livetv1.metube.id/hls/idxchannel.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/G7pCMiZsmcjMBCUYH4zR_rec_small.png",MNC News
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/G7pCMiZsmcjMBCUYH4zR.png",MNC News
 https://cdn-livetv1.metube.id/hls/mncnews.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/fmSDYsOEziW6TWqCUda7_rec_small.png",SCTV
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/fmSDYsOEziW6TWqCUda7.png",SCTV
 https://cdn-livetv1.metube.id/hls/sctv.m3u8
 
-#EXTINF:-1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",MNC Shop CH. 79
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/jYAPYZq8iXkPWHxmSpQP.png",MNC Shop CH. 79
 https://cdn-livetv1.metube.id/hls/mncshop79.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/nHzEw9eTmYEFQj3RZQVS_rec_small.png",INDOSIAR
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/nHzEw9eTmYEFQj3RZQVS.png",INDOSIAR
 https://cdn-livetv1.metube.id/hls/indosiar.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/J5tCBkcAGZAPa8g7Mcip_rec_small.png",MNC Shop CH. 88
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/J5tCBkcAGZAPa8g7Mcip.png",MNC Shop CH. 88
 https://cdn-livetv1.metube.id/hls/mncshop.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/dgC1n67x73t73ilqpMVC_rec_small.png",TRANS TV
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/dgC1n67x73t73ilqpMVC.png",TRANS TV
 https://cdn-livetv1.metube.id/hls/transtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/qi1C3GoEpH8EIDTnsXrH_rec_small.png",TRANS7
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/qi1C3GoEpH8EIDTnsXrH.png",TRANS7
 https://cdn-livetv1.metube.id/hls/trans7.m3u8
 
-#EXTINF:-1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",METRO TV
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/0Pqqr0lujAPCeiiJwiSI.png",METRO TV
 https://cdn-livetv1.metube.id/hls/metrotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/Ul5rcwZsR57nYsA6XLCi_rec_small.png",ANTV
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/Ul5rcwZsR57nYsA6XLCi.png",ANTV
 https://cdn-livetv1.metube.id/hls/antv.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/PoClxm8jPWsAkx1mij19_rec_small.png",TV 0NE
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/PoClxm8jPWsAkx1mij19.png",TV 0NE
 https://cdn-livetv1.metube.id/hls/tvone.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/8nN2a0bgYOOCV4JWg1ph_rec_small.png",Kompastv
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/8nN2a0bgYOOCV4JWg1ph.png",Kompastv
 https://cdn-livetv2.metube.id/hls/kompastv.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/eidt14O7ey775ra50jVM_rec_small.png",jaktv
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/eidt14O7ey775ra50jVM.png",jaktv
 https://cdn-livetv2.metube.id/hls/jaktv.m3u8
 
-#EXTINF:-1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",JTV
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/P4NuWj9owkTpfVQzMIzr.png",JTV
 https://cdn-livetv2.metube.id/hls/jtv.m3u8
 
-#EXTINF:-1 tvg-logo="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",RTV
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/live/logo/ZC08E6mPFGtUVkOnRgLZ.png",RTV
 https://cdn-livetv2.metube.id/hls/rtv.m3u8
